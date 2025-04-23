@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 
-const API_KEY = "wxfniok5bsyjdf5pj"
+const API_KEY = "wx7bk0dgp0fvai02z"
 const POST_BASE_URL = "https://techhk.aoscdn.com/api/tasks/visual/scale"
 const MAX_RETRIES = 20
 
